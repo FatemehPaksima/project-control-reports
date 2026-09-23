@@ -24,7 +24,6 @@ data/*.xls
 output/*
 !output/.gitkeep
 results/
-*.png
 *.pdf
 
 # ============================================
