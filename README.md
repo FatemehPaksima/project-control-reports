@@ -16,6 +16,10 @@ Project managers spend too much time copy-pasting between Jira exports, planning
 
 Everything runs locally, needs no external service, and works with standard Jira CSV exports.
 
+## Preview
+
+![Portfolio Homepage](docs/homepage.png)
+
 ## Features
 
 - **Multi-project aggregation** — Merge unlimited Jira CSV exports into a single monthly report
