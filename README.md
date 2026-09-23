@@ -18,7 +18,7 @@ Everything runs locally, needs no external service, and works with standard Jira
 
 ## Preview
 
-![Portfolio Homepage](docs/homepage.png)
+![Portfolio Homepage](docs/preview.png)
 
 ## Features
 
