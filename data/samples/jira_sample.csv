@@ -1,0 +1,5 @@
+Summary|Issue key|Issue id|Issue Type|Status|Project key|Assignee|Sprint|Sprint.1|Sprint.2|Labels|Time Spent|Description
+"S20W1-1 - sample task"|PROJ_A-1001|10001|Task|Done|PROJ_A|Alice Anderson|Sprint 20|Sprint 21|||14400|"sample description"
+"S20W1-2 - another task"|PROJ_A-1002|10002|Bug|Done|PROJ_A|Bob Baker|Sprint 20|Sprint 20|Sprint 21||7200|"sample desc 2"
+"S20W1-3 - meeting"|PROJ_A-1003|10003|Task|Done|PROJ_A|Charlie Clark|Sprint 20|Sprint 21||meeting|3600|"retrospective"
+"S20W1-4 - unexpected"|PROJ_A-1004|10004|Task|In Progress|PROJ_A|Diana Davis|Sprint 20|||unexpected|5400|"hotfix"
