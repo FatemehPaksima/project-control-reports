@@ -18,7 +18,9 @@ Everything runs locally, needs no external service, and works with standard Jira
 
 ## Preview
 
-![Portfolio Homepage](docs/preview.png)
+![Efficiency Dashboard](docs/Efficiency_page_dashboard.png)
+![Weekly Dashboard](docs/Weekly_page_dashboard.png)
+![Monthly Dashboard](docs/Monthly_page_dashboard.png)
 
 ## Features
 
@@ -29,7 +31,7 @@ Everything runs locally, needs no external service, and works with standard Jira
 - **Weekly task tracking** — Compare actual time vs. planned time with color-coded progress
 - **Attendance extraction** — Parse monthly Excel attendance sheets into clean structured output
 - **Configurable paths** — All paths and patterns centralized at the top of each script
-- **Excel formatting** — Conditional highlighting for over/under target progress
+- **Excel formatting** — Conditional highlighting for over/under target progress.
 
 ## Tech Stack
 
