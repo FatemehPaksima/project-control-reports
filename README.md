@@ -20,7 +20,7 @@ Everything runs locally, needs no external service, and works with standard Jira
 
 ![Efficiency Dashboard](docs/Efficiency_page_dashboard.png)
 ![Weekly Dashboard](docs/Weekly_page_dashboard.png)
-![Monthly Dashboard](docs/Monthly_page_dashboard.png)
+![Monthly Dashboard](docs/monthly_page_dashboard.png)
 
 ## Features
 
